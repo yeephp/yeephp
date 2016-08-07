@@ -1,0 +1,27 @@
+{
+    "name": "yeephp/yeephp",
+    "type": "library",
+    "description": "YeePHP is a framework designed for Web Developers in mind, without overwhelming your Apps or API Projects with overheads which reflect in the performance of your final products.",
+    "keywords": ["framework","api","rest","performance"],
+    "homepage": "http://yeephp.com",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Andy Maier"
+        },
+        {
+            "name": "Peter Chakalov"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "suggest": {
+        "ext-mcrypt": "Required for HTTP cookie encryption"
+    },
+    "autoload": {
+        "psr-4": {
+            "Yee\\": "Yee"
+        }
+    }
+}
