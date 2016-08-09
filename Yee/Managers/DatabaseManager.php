@@ -1,6 +1,6 @@
 <?php
 
-namespace Yee\Managers\DatabaseManager;
+namespace Yee\Managers;
 
 use \Yee\Yee;
 use \Yee\Libraries\Database\MysqliDB;
