@@ -1,5 +1,6 @@
 # YeePHP Framework
 
+[![Build Status](https://travis-ci.org/yeephp/yeephp.svg?branch=master)](https://travis-ci.org/yeephp/yeephp)
 [![Total Downloads](https://poser.pugx.org/yeephp/yeephp/downloads)](https://packagist.org/packages/yeephp/yeephp)
 [![License](https://poser.pugx.org/yeephp/yeephp/license)](https://packagist.org/packages/yeephp/yeephp)
 
