@@ -1,0 +1,15 @@
+<phpunit bootstrap="vendor/autoload.php"
+    convertErrorsToExceptions="true"
+    convertNoticesToExceptions="true"
+    convertWarningsToExceptions="true"
+    colors="true"
+    processIsolation="true"
+    stopOnFailure="true"
+    syntaxCheck="false"
+    backupGlobals="false">
+    <testsuites>
+        <testsuite name="YeePHP">
+            <directory>./tests/</directory>
+        </testsuite>
+    </testsuites>
+</phpunit>
