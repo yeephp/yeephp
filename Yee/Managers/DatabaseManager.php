@@ -3,7 +3,6 @@
 namespace Yee\Managers;
 
 use \Yee\Yee;
-use \Yee\Libraries\Database\MysqliDB;
 
 class DatabaseManager extends Yee 
 {
