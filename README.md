@@ -7,3 +7,5 @@
 [![License](https://poser.pugx.org/yeephp/yeephp/license)](https://packagist.org/packages/yeephp/yeephp)
 
 YeePHP is a framework designed with Web Developers in mind, without overwhelming your Apps or API Projects with overheads which reflect in the performance of your final product. https://yeephp.com
+
+YeePHP is not further supported. We decided shortly to publish a new Framework, used in a variety of new(er) projects, with even improved performance, and fully optimised for cloud deployments. Read and follow us at https://codecoda.com/en
